@@ -31,7 +31,7 @@
   }
   
   .section-uno {
-    background-image: url(./img/puntitos.png);
+    background-image: url(./Img/puntitos.png);
     width: 100%;
     padding: 25px;
     height: 594px;
@@ -201,7 +201,7 @@
   }
   
   .footer {
-    background-image: url(./img/puntitos.png);
+    background-image: url(./Img/puntitos.png);
     background-color: #eeeeee;
     height: 493px;
     padding: 0px 25px;
